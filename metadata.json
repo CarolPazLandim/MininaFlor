@@ -1,0 +1,6 @@
+{
+  "name": "Bloom & Co. — Floricultura & Presentes Especiais",
+  "description": "Floricultura boutique e presentes refinados com buquês autorais, flores nobres, cestas gourmet e entrega cuidadosa no mesmo dia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
